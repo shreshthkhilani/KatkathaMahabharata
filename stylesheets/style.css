@@ -10,8 +10,9 @@ h1, h2, h3, h4, h5 {
 }
 
 #header {
-	background-color: #dc3522;
+	background-color: #a74b25;
 	color: #fff;
+	background-image: url("/KatkathaMahabharata/images/papermachetexture.png");
 }
 
 .whitetext {
@@ -29,5 +30,19 @@ h1, h2, h3, h4, h5 {
 }
 
 .homeimage {
-	width: 80%;
+	max-width: 80%;
+}
+
+.hollowcircle {
+	display: inline-block;
+	background-color: #fff;
+	border: 1px solid #dc3522;
+	height: 10px;
+	width: 10px;
+	border-radius: 10px;
+	margin-bottom: 2px;
+}
+
+.fullcircle {
+	background-color: #dc3522 !important;
 }

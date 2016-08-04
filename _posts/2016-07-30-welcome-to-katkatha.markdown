@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Katkatha!"
-date:   2016-08-03 16:04:23 +0530
-categories: intro katkatha
+date:   2016-07-30
+categories: articles
 image: "https://scontent-sit4-1.xx.fbcdn.net/t31.0-8/13765791_1209835305717502_2486728326073631935_o.jpg"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

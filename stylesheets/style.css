@@ -9,6 +9,25 @@ h1, h2, h3, h4, h5 {
 	font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
 
+#header {
+	background-color: #dc3522;
+	color: #fff;
+}
+
+.whitetext {
+	color: #fff;
+}
+
+#footer {
+	padding-top: 16px;
+	width: 100%;
+}
+
+#mainbody {
+	width: 100%;
+	min-height: 75%;
+}
+
 .homeimage {
-	max-width: 400px;
+	width: 80%;
 }

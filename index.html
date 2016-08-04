@@ -4,21 +4,12 @@ layout: default
 
 <div class="home container">
 
-  <h2 class="page-heading">Posts</h2>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-          <small>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          </small>
-        </h3>
-
-        <img src="{{ post.image }}" class="homeimage">
-      </li>
-    {% endfor %}
-  </ul>
+  <div class="col-md-8 col-xs-12">
+    <h2>Home</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Disrobing_of_Draupadi.jpg" class="homeimage">
+  </div>
+  <div class="col-md-4 col-xs-12">
+    {% include sidebar.html %}
+  </div>
 
 </div>

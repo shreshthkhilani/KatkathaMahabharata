@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The Idea"
+date:   2016-07-31
+categories: articles
+---
+
+The idea came to Anurupa... 

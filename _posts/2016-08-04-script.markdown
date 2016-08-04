@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Script"
+date:   2016-08-04
+categories: articles
+---
+
+The script was written by Anamika...

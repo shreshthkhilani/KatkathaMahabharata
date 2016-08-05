@@ -6,3 +6,5 @@ categories: articles
 ---
 
 The idea came to Anurupa... 
+
+{% include image.html url="https://upload.wikimedia.org/wikipedia/commons/3/37/Krishna_and_Arjun_on_the_chariot%2C_Mahabharata%2C_18th-19th_century%2C_India.jpg" caption="Arjun and Krishna on chariot as depicted in a 16th Century painting comissioned by Akbar." %}

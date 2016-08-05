@@ -1,24 +1,31 @@
-<h2>Contents</h2>  
+<div id="sidebar">
+  <div id="sidebarhead">
+    <h2>Contents</h2>  
+  </div>
+
   <h4 class="sidebaritle">
     <!-- <div class="hollowcircle fullcircle"></div> -->
     <a class="postlink" href="{{ site.baseurl }}/">Home</a>
-    <small>
+    <!-- <small>
       <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
       <span class="glyphicon glyphicon-music" aria-hidden="true"></span>
       <span class="glyphicon glyphicon-film" aria-hidden="true"></span>
-    </small>
+    </small> -->
   </h4>
 
-{% for post in site.posts reversed %}
+  {% for post in site.posts reversed %}
+
   <h4 class="sidebaritle">
     <!-- <div class="hollowcircle"></div> -->
     <a class="postlink" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-    <small>
+    <!-- <small>
       <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
       <span class="glyphicon glyphicon-music" aria-hidden="true"></span>
       <span class="glyphicon glyphicon-film" aria-hidden="true"></span>
-      <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
-    </small>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </small> -->
   </h4>
+
   <!-- <img src="{{ post.image }}" class="homeimage"> -->
-{% endfor %}
+  {% endfor %}
+</div>

@@ -9,6 +9,13 @@ h1, h2, h3, h4, h5 {
 	font-family: "Josefin Sans", sans-serif;
 }
 
+p {
+	font-size: 11pt;
+	line-height: 16pt;
+	margin-bottom: 16pt;
+	margin-top: 0pt;
+}
+
 #header {
 	background-color: #a74b25;
 	color: #fff;
@@ -20,17 +27,20 @@ h1, h2, h3, h4, h5 {
 }
 
 #footer {
-	padding-top: 16px;
+	margin-top: 12pt;
 	width: 100%;
+}
+
+#footerp {
+	font-size: 9pt;
+	line-height: 12pt;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
 }
 
 #mainbody {
 	width: 100%;
 	min-height: 75%;
-}
-
-.homeimage {
-	max-width: 80%;
 }
 
 .hollowcircle {
@@ -45,4 +55,45 @@ h1, h2, h3, h4, h5 {
 
 .fullcircle {
 	background-color: #dc3522 !important;
+}
+
+.postimagewrapper {
+	padding-top: 12pt;
+  padding-bottom: 12pt;
+}
+
+.postimage, .postimageright {
+	display: inline-block;
+	max-width: 70%;
+}
+
+.postcaption, .postcaptionright {
+	display: inline-block;
+	max-width: 21%;
+	margin-left: 3%;
+	margin-right: 3%;
+	font-size: 9pt;
+	line-height: 12pt;
+	margin-top: 12pt;
+	color: #777777;
+}
+
+.postimage, .postcaption {
+	float: left;
+	margin-left: 3%;
+}
+
+.postimageright, .postcaptionright {
+	float: right;
+	margin-right: 3%;
+	text-align: right;
+}
+
+#sidebarhead {
+	text-align: center;
+}
+
+#sidebar {
+	padding-left: 10%;
+	padding-right: 10%;
 }

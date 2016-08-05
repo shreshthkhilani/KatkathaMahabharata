@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Katkatha!"
+title:  "Welcome to Katkatha Puppet Arts Trust!"
 date:   2016-07-30
 categories: articles
 image: "https://scontent-sit4-1.xx.fbcdn.net/t31.0-8/13765791_1209835305717502_2486728326073631935_o.jpg"

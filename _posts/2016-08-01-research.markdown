@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Research"
+title:  "About the Show"
 date:   2016-08-01
 categories: articles
 ---

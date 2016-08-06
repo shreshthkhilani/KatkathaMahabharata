@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Idea"
+title:  "A Brief Introduction to the Mahabharata"
 date:   2016-07-31
 categories: articles
 ---

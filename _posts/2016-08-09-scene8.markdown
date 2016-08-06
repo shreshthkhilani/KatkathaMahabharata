@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scene 3: Amba"
-date:   2016-08-04
+title:  "Scene 8: Gandhari's Lament and Krishna's Death"
+date:   2016-08-09
 categories: articles
 ---
 

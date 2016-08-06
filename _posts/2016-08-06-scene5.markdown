@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scene 3: Amba"
-date:   2016-08-04
+title:  "Scene 5: Karna"
+date:   2016-08-06
 categories: articles
 ---
 

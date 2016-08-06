@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scene 3: Amba"
-date:   2016-08-04
+title:  "Scene 6: Draupadi"
+date:   2016-08-07
 categories: articles
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scene 3: Amba"
-date:   2016-08-04
+title:  "Scene 4: Abhimanyu, Arjuna, Jayadratha"
+date:   2016-08-05
 categories: articles
 ---
 

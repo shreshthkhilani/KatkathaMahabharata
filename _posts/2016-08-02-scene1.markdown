@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Scene 1: Parents and Ancestors"
+date:   2016-08-02
+categories: articles
+---
+
+Katkatha, known for their contemporary take on puppetry, collaborated with Gundu Raju (a traditional puppeteer from the Togalu Gombeyaata school of puppetry from Karnataka) for this play. 
+
+{% include image.html url="/KatkathaMahabharata/images/scene1/lsps.JPG" caption="Leather shadow puppets of assorted characters from the Mahabharata." %}
+<br>
+
+*“Even though I want to work the Mahabharata in a completely contemporary setting, I do understand that it comes from a few thousand years of collective memory and narrative content”* -- Anurupa 
+
+
+The first scene is emblematic of this collaboration. Leather shadow puppets tell the story of the parents and the ancestors of the Pandavas and the Kauravas to the singing of Gundu Raju while the otherwise two-dimensional narrators Silakayata and Bangarakha come to life and talk to the audience. 
+
+{% include image.html url="/KatkathaMahabharata/images/scene1/shameem.JPG" caption="Shameem operating a leather shadow puppet in rehearsal. The puppet depicts the palace of the Pandavas: Indraprastha." %}
+
+{% include imageright.html url="/KatkathaMahabharata/images/scene1/narrators.JPG" caption="Silakayata and Bangarakha, the narrators of the show." %}
+<br>
+
+Reading various versions of the Mahabharata made it clear to them that they wanted to depict the war. Anurupa was also certain that she wanted to somehow narrate parts leading up to the war for context. For this, they explored a bunch of options. One of those involved a lot of voiceovers. The other involved two foot soldiers in the war narrating incidents, almost like the play by Dharamvir Bharati, *Andha Yug*. 
+
+
+These options were both trashed as it became clear that the Togalu version of the Mahabharata was so important to their show. Gundu Raju has been using Silakayata and Bangarakha in his narratives and it felt almost obvious to use them here as well. 
+
+{% include image.html url="/KatkathaMahabharata/images/scene1/silly.JPG" caption="Silakayata in rehearsal." %}
+
+{% include imageright.html url="/KatkathaMahabharata/images/scene1/billy.JPG" caption="Bangarakha in rehearsal." %}
+<br>
+
+Of course, this narration did have its fair share of problems. Anamika wrote a lot of dialogue for the narrators but struggled to cut it down and make it concise. The Mahabharata is so detailed and every detail is so well tied into the narrative that it was difficult to pick what to keep and what to omit. There initially were a lot of details, but even through the rehearsal process, every meeting with Anamika yielded new cuts to these narrations. Even at the previews in Bengaluru, Anamika had plans to further cut the narration in this scene. On the other hand, they started to see the possibility of expanding the narration in other scenes. 
+
+
+Aside from challenges with the script, Anurupa and Vivek, the performers playing these characters had the regular teething problems of memorizing script and movement. The script was constantly changing and memorizing the dialogue was troubling for both the performers in almost equal measure. Anurupa admits that they could have done more with the narration at the previews were they more fluent with their lines. 
+
+{% include image.html url="/KatkathaMahabharata/images/scene1/finalsilly.JPG" caption="Silakayata in the Bengaluru preview." %}
+
+{% include imageright.html url="/KatkathaMahabharata/images/scene1/finalbilly.JPG" caption="Bangarakha in the Bengaluru preview." %}
+<br>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280569900&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

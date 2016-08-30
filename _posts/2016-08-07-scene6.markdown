@@ -5,4 +5,4 @@ date:   2016-08-07
 categories: articles
 ---
 
-The script was written by Anamika...
+{% include image.html url="/KatkathaMahabharata/images/scene6/cover.JPG" caption="" %}

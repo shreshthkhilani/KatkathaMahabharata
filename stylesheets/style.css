@@ -14,12 +14,15 @@ p {
 	line-height: 16pt;
 	margin-bottom: 16pt;
 	margin-top: 0pt;
+	display: block;
+	clear: both;
 }
 
 #header {
-	background-color: #a74b25;
+/*	background-color: #a74b25;*/
+	background-color: #dfb263;
 	color: #fff;
-	background-image: url("/KatkathaMahabharata/images/papermachetexture.png");
+	background-image: url("/KatkathaMahabharata/images/papermachetexture4.png");
 }
 
 .whitetext {
@@ -57,14 +60,16 @@ p {
 	background-color: #dc3522 !important;
 }
 
-.postimagewrapper {
+/*.postimagewrapper {
 	padding-top: 12pt;
   padding-bottom: 12pt;
-}
+}*/
 
 .postimage, .postimageright {
 	display: inline-block;
 	max-width: 70%;
+  margin-bottom: 16pt;
+  max-height: 500px;
 }
 
 .postcaption, .postcaptionright {

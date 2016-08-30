@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Scene 2: The Game of Dice"
+date:   2016-08-03
+categories: articles
+---
+
+{% include image.html url="/KatkathaMahabharata/images/scene2/cover.JPG" caption="" %}

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Scene 3: Amba"
-date:   2016-08-04
-categories: articles
----
-
-The script was written by Anamika...

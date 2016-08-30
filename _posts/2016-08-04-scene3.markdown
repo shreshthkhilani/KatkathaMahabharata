@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Scene 3: Amba"
+date:   2016-08-04
+categories: articles
+---
+
+{% include image.html url="/KatkathaMahabharata/images/scene3/cover.JPG" caption="" %}

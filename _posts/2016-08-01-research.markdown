@@ -1,8 +1,0 @@
----
-layout: post
-title:  "About the Show"
-date:   2016-08-01
-categories: articles
----
-
-Gundurajuji helped a lot with the research. 

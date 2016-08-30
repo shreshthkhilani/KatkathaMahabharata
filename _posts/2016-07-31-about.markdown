@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "About the Show"
+date:   2016-07-31
+categories: articles
+---
+
+*“Human beings are born for peace; they like to grow up in peace. They like to raise their children in peace, and they like to say goodbye to this beautiful life in peace. Then why are we always preparing for war?”*
+
+
+This seems to be the central dilemma of the Mahabharata. It is in making peace and keeping the status quo that the each character of the Mahabharata begins to wage their personal wars which snowball into an apocalypse. Our Mahabharata explores the inner dilemma and back stories of 15 characters in the play. Each character in the Mahabharata is an archetype whose single minded and unquestioning loyalty to one belief leads to the inevitable conflict. Was there ever a moment when each of these human beings by making a choice, the choice of letting go, could have averted the war? 
+
+
+<h4>Subala</h4>
+The Prince of Kandahar (Afganisthan), the brother of princess Gandhari. He appears as the outright villain of the Mahabharata but his little known back story can challenge this view somewhat. His brothers and father were starved to death by Bhishma. The reason? They hid from him the fact that Gandhari was a Manglik(born on an inauspicious day so her first husband was cursed to die) and was thus married to a tree to avert the death of her real husband. The starving family chose to give their food to Shakuni so that he would live to take revenge. He had nothing against the Pandavas per say. He wanted to wipe out Bhishma’s family.
+
+{% include image.html url="/KatkathaMahabharata/images/about/shakuni.JPG" caption="Shakuni in rehearsal." %}
+<br>
+
+<h4>Yudishthir</h4>
+The oldest Pandava brother was known for his wisdom, fairness, knowledge and introspection and was staunchly anti war. But he was a gambling addict. Shakuni started the dice game knowing that Yudisthir would gamble everything away thus precipitating the war. 
+
+{% include image.html url="/KatkathaMahabharata/images/about/yudi.JPG" caption="Yudishthir struggling with his gambling addiction." %}
+<br>
+
+<h4>Draupadi</h4>
+Draupadi was the wife of the five Pandava brothers. She was the daughter of king Drupad but born from a sacrificial fire along with her twin brother Dristudyumna. Drupad performed the sacrifice to manifest a son to kill his arch enemy Drona and daughter to marry and form an alliance with the Pandavas.
+
+{% include image.html url="/KatkathaMahabharata/images/about/draupadi.JPG" caption="Draupadi looking back at Dushasshana after being humiliated." %}
+<br>
+
+<h4>Amba/Shikhandi</h4>
+The princess of Kashi who was abducted by Bhishma, not for himself but his half-brother Vichitraveera. Amba, who confessed that she loved Shalva, was set free by Bhishma but was rejected by Shalva as another man’property. Amba returned to confront Bhishma asking him to marry her. But Bhishma, bound to an oath of celibacy and did not comply. Amba then killed herself but only after promising to be the cause of Bhishma’s death. She was reborn as King Drupad’s daughter, but brought up as a son. In her youth she became a man when a Yaksha gives her his manhood. However, for Bhishma Shikhandi is a woman and he refuses to engage him in battle.
+
+{% include image.html url="/KatkathaMahabharata/images/about/amba.JPG" caption="Amba's attire and posture being tested out at rehearsal." %}
+<br>
+
+<h4>Abhimanyu</h4>
+Arjuna’s son from Subhadra, the first born Pandava and prospective king, grows up a brave and valiant warrior. When he is still in his mother’s womb he learns from his father how to enter the almost invincible Chakravyu but he does not hear the part on how to get out. 
+
+{% include image.html url="/KatkathaMahabharata/images/about/abhi.JPG" caption="Abhimanyu trying to break the chakravyuh." %}
+<br>
+
+<h4>Arjuna</h4>
+The third brother and best archer among the Pandavas. He starts acquiring arms and warfare technique fairly early in the Mahabharata, as if gearing for war long before it truly starts yet he becomes reluctant to kill his kin moments before the war begins. While Krishna convinces him to do his duty his participation in the war remains reluctant until Abhimanyu is killed.
+
+<h4>Jayadrata</h4>
+Was married to Dushala, the only sister to the 100 Kaurava brothers. His rivalry with the pandavas went back to the times when he had tried to abduct Draupadi. But killing him is next to impossible because his father Vrudhakshatra gets for him a special blessing from Shiva. The head of the one who fells Jayadrata’s head to the earth shall be set aflame. So Krishna instructs Arjuna to use two arrows to kill Jayadrata, one to decapitate him and the other to take his head to his father’s lap. When Jayadrata’s head falls on his father’s lap, in shock, he drops it to the floor and his head too bursts into flames. 
+
+{% include image.html url="/KatkathaMahabharata/images/about/jaya.JPG" caption="Jayadrata laughing." %}
+<br>
+
+<h4>Dronacharya</h4>
+The guru of the Pandava’s and Kauravas is a Brahmin by birth but has mastered the Kshatriya skills. Drona’s son was Ashwatthama but he probably loved Arjuna equally. His sworn enemy was the king of Panchal, Drupad.  Drona asked the Pandavas and Kauravas for a only one Gurudakshina. That they would defest Drupad and take half his kingdom for him. They did.
+
+{% include image.html url="/KatkathaMahabharata/images/about/drona.JPG" caption="Drona in rehearsal." %}
+<br>
+
+<h4>Karna</h4>
+Was born out of wedlock to Kunti from Surya or the Sun god. Thus he was born with special protection, the Kawach and Kundal. Kunti cast him away into the river but he was found by the royal charioteer who adopted him as his own but trained him as a warrior. Duryodhana befriended Karna and gave him Anga thereby making him king. Karna remained his loyal friend till the end, even when he found out that he was the brother of the Pandavas he did not defect to the other side.
+
+{% include image.html url="/KatkathaMahabharata/images/about/karna.JPG" caption="Karna's death." %}
+<br>
+
+<h4>Dushasshana</h4>
+The second Kurava brother. When Yudisthira lost Draupadi I the dice game it was Dushasshana who dragged her into court by the hair. Draupadi swore that she would never bind her tresses again until they were washed in Dushasshana’s blood. Bhima solemnized this oath during the war in one of the most gruesome acts of revenge.
+
+{% include image.html url="/KatkathaMahabharata/images/about/dus.JPG" caption="Bhima fighting the Dushasshana puppet." %}
+<br>
+
+<h4>Duryodhana</h4>
+The eldest Kaurava whose deeds and arrogance earned him the name. His original name was Suyodhana. But his claim that he was the rightful heir to the throne was not wrong and his protest against cast rigidities has earned him a huge temple in Kerala. 
+
+<h4>Ashwatthama</h4>
+The son of Dronacharya was trained alongside the royal princes at all times. Yet he always felt inadequate. So when the war had ended and the Kauravas were nearly wiped out he forced the injured Duryodhana to make him the commander of the Kauravas. Then he wreaked revenge on the Pandavas by killing all the sleeping children and brother of Draupadi in the dead of the night. When he could not recall his irresponsibly released Brahmastra he directed it towards the unborn child, the last Pandava heir in Uttara’s womb. That is when Krishna cursed him to become a leper and live for 3000 years.
+
+{% include image.html url="/KatkathaMahabharata/images/about/asw.JPG" caption="Ashwatthama breaking down after killing the Pandavas' children." %}
+<br>
+
+<h4>Gandhari</h4>
+The mother of the Kaurava’s. She blindfolds herself when she discovers that she would marry the bind prince Dhritarastra. She only takes off her blindfold only twice after that. Once to bless Duryodhana’s naked body with invincibility but Krishna puts a spanner in the works and Duryodhana turns up with a loin cloth. The Second time it is to see and mourn the bodies of all her dead sons in battle field. This is the only time she ever sees them. She then curses Krishna.
+
+{% include image.html url="/KatkathaMahabharata/images/about/gandhari.JPG" caption="Gandhari mouring her loss." %}
+<br>
+
+<h4>Krishna</h4>
+Is GOD. He is born as a human but has all the powers of god. He does not pick up a single weapon in the Kurukshetra war but uses all manner of cunning and connivance in favor of the Pandavas. Without his unjust means the Pandavas could have never won the war. Yet before the war he tries to prevent it. He receives Gandhari’s curse and thus his kin, the Yadavas perish by fighting each other and he dies alone in the woods, accidentally shot in the foot by a hunter.
+
+<h4>Barbareek</h4>
+The son, of Ghatotkatcha and the grandson of Bheema. He has a curse and a boon. He cannot ever be defeated in war but not can he ever fight from the winning side. Thus the war can never end as long as he is alive. Krishna tricks him into killing himself but at his insistence keeps his head alive, to witness the end of the war. At the end he is asked who won. He says “No one, I only saw Krishna’s discus travel to and fro killing the powerful and important men whose large egos were destroyed once and for all”

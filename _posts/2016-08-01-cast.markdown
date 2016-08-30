@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Meet the Cast"
+date:   2016-08-01
+categories: articles
+---
+
+PERFORMERS- Vivek Kumar, Mohammad Shameem, Anurupa Roy, Avinash Kumar, Gundu Raju
+
+
+{% include image.html url="/KatkathaMahabharata/images/cast/anurupa.JPG" caption="Anurupa Roy is the creator, director, and a performer in the show." %}
+
+{% include imageright.html url="/KatkathaMahabharata/images/cast/gundu.JPG" caption="Gundu Raju is a performer from the Togalu Gombeyaata school of puppetry." %}
+
+{% include image.html url="/KatkathaMahabharata/images/cast/shameem.JPG" caption="Mohammad Shameem is the puppet and prop designer and also performs in the show." %}
+
+{% include imageright.html url="/KatkathaMahabharata/images/cast/avinash.JPG" caption="Avinash Kumar is the choreographer and a performer in the show." %}
+
+{% include image.html url="/KatkathaMahabharata/images/cast/vivek.JPG" caption="Vivek Kumar is a performer." %}
+<br>
+
+ORIGINAL MUSIC SCORE- Suchet Malhotra
+
+
+SCRIPT- Anamika Mishra
+
+
+ANIMATION- Atul Sinha
+
+
+PUPPET DESIGN AND CONSTRUCTION- Mohammad Shameem
+
+
+ASSITED BY- Asha
+
+
+SHADOW PUPPETS- S. Chidambara Rao
+
+
+CHOREOGRAPHY- Avinash Kumar
+
+
+SHADOW PUPPETS AND SCRIPT ADVICE- Gunduraju
+
+
+SHADOW PUPPET CONSTRUCTION- S.Chidambara Rao
+
+
+LIGHT DESIGN- Milind Shrivastav
+
+
+DESIGN, CONCEPT, DIRECTION- Anurupa Roy

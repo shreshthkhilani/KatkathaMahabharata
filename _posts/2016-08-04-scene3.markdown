@@ -5,4 +5,21 @@ date:   2016-08-04
 categories: articles
 ---
 
+We are introduced to Katkatha’s life-sized Bunraku puppet in this scene. The Amba puppet is controlled by Anurupa (on the left side of the puppet), Shameem (on the right side), and Avinash (on the feet).
+
+
 {% include image.html url="/KatkathaMahabharata/images/scene3/cover.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene3/01.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene3/02.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene3/03.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene3/04.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene3/05.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene3/06.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene3/07.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene3/08.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene3/09.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene3/10.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene3/11.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene3/12.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene3/13.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene3/14.JPG" caption="" %}

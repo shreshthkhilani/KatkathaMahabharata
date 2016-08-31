@@ -20,6 +20,9 @@ The first scene is emblematic of this collaboration. Leather shadow puppets tell
 {% include imageright.html url="/KatkathaMahabharata/images/scene1/narrators.JPG" caption="Silakayata and Bangarakha, the narrators of the show." %}
 <br>
 
+
+<h4>Research</h4>
+
 Reading various versions of the Mahabharata made it clear to them that they wanted to depict the war. Anurupa was also certain that she wanted to somehow narrate parts leading up to the war for context. For this, they explored a bunch of options. One of those involved a lot of voiceovers. The other involved two foot soldiers in the war narrating incidents, almost like the play by Dharamvir Bharati, *Andha Yug*. 
 
 
@@ -30,8 +33,21 @@ These options were both trashed as it became clear that the Togalu version of th
 {% include imageright.html url="/KatkathaMahabharata/images/scene1/billy.JPG" caption="Bangarakha in rehearsal." %}
 <br>
 
+
+<h4>Script</h4>
+
 Of course, this narration did have its fair share of problems. Anamika wrote a lot of dialogue for the narrators but struggled to cut it down and make it concise. The Mahabharata is so detailed and every detail is so well tied into the narrative that it was difficult to pick what to keep and what to omit. There initially were a lot of details, but even through the rehearsal process, every meeting with Anamika yielded new cuts to these narrations. Even at the previews in Bengaluru, Anamika had plans to further cut the narration in this scene. On the other hand, they started to see the possibility of expanding the narration in other scenes. 
 
+
+<h4>Puppet Making</h4>
+
+When it comes to the puppets itself, a lot of the leather shadow puppets were built by Gundu Raju’s grandparents. A few of these were damaged and so for this show, Chidambara Rao from Andhra Pradesh, helped make new puppets for Katkatha to use. 
+
+
+The masks of Silakayata and Bangarakha were made by Asha. Plaster of Paris strips were used to cover Anurupa and Vivek’s faces. They were applied with water over a layer of lubrication (oil or vaseline) so as to not stick to the face. After 5-10 minutes, the plaster dried and the mould for the masks was ready. This mould was used to create paper mache masks. 
+
+
+<h4>Rehearsal</h4>
 
 Aside from challenges with the script, Anurupa and Vivek, the performers playing these characters had the regular teething problems of memorizing script and movement. The script was constantly changing and memorizing the dialogue was troubling for both the performers in almost equal measure. Anurupa admits that they could have done more with the narration at the previews were they more fluent with their lines. 
 

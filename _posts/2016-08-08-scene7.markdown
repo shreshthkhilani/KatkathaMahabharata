@@ -6,3 +6,12 @@ categories: articles
 ---
 
 {% include image.html url="/KatkathaMahabharata/images/scene7/cover.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene7/01.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene7/02.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene7/03.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene7/04.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene7/05.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene7/06.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene7/07.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene7/08.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene7/09.JPG" caption="" %}

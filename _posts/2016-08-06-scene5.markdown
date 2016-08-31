@@ -6,3 +6,18 @@ categories: articles
 ---
 
 {% include image.html url="/KatkathaMahabharata/images/scene5/cover.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene5/01.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene5/02.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene5/03.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene5/04.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene5/05.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene5/06.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene5/07.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene5/08.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene5/09.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene5/10.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene5/11.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene5/12.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene5/13.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene5/14.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene5/15.JPG" caption="" %}

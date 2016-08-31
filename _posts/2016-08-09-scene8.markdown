@@ -5,4 +5,23 @@ date:   2016-08-09
 categories: articles
 ---
 
+The last scene was one of the most challenging because of the most important character in the epic: Krishna.
+
+
 {% include image.html url="/KatkathaMahabharata/images/scene8/cover.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene8/01.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene8/02.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene8/03.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene8/04.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene8/05.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene8/06.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene8/07.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene8/08.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene8/09.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene8/10.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene8/11.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene8/12.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene8/13.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene8/14.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene8/15.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene8/16.JPG" caption="" %}

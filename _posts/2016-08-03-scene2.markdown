@@ -5,4 +5,29 @@ date:   2016-08-03
 categories: articles
 ---
 
-{% include image.html url="/KatkathaMahabharata/images/scene2/cover.JPG" caption="" %}
+This is the scene that thrusts the narrative into the war. The infamous game of dice was orchestrated by Shakuni, played by Yudhishthira, and ended in the humiliation of Draupadi.
+
+
+{% include image.html url="/KatkathaMahabharata/images/scene2/cover.JPG" caption="Dushassana humiliating Draupadi." %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/01.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/02.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/03.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/04.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/05.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/06.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/07.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/08.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/09.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/10.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/11.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/12.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/13.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/14.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/15.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/16.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/17.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/18.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/19.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/20.JPG" caption="" %}
+{% include imageright.html url="/KatkathaMahabharata/images/scene2/21.JPG" caption="" %}
+{% include image.html url="/KatkathaMahabharata/images/scene2/22.JPG" caption="" %}

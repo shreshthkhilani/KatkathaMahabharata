@@ -20,7 +20,6 @@ description: > # this means to ignore newlines until "baseurl:"
   allow you to dive as deeply into this process as you'd like. 
 baseurl: "/KatkathaMahabharata" # the subpath of your site, e.g. /blog
 url: "https://shreshthkhilani.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
 
 # Build settings
 markdown: kramdown
